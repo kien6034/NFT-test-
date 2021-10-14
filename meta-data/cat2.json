@@ -1,0 +1,11 @@
+{
+    "name": "cat1",
+    "description": "white cat",
+    "image": "https://ipfs.io/ipfs/QmZnvhdf123inyh8Tps7B2vo1X9F8oV7a2NqV4WdN9Fysd?filename=cat2.jpg",
+    "attributes": [
+        {
+            "color": "white",
+            "value": 0
+        }
+    ]
+}
