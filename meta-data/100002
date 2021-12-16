@@ -1,0 +1,11 @@
+{
+    "name": "dog2",
+    "description": "white cat",
+    "image": "https://ipfs.io/ipfs/QmWdBALxW7YN7CEwDCqZy2Zqpk1LLTdK1qQHX5zHxjsSjV?filename=322868_1100-800x825.jpg",
+    "attributes": [
+        {
+            "color": "yellow",
+            "value": 0
+        }
+    ]
+}

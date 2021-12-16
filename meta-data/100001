@@ -1,0 +1,11 @@
+{
+    "name": "dog1",
+    "description": "white cat",
+    "image": "https://ipfs.io/ipfs/Qme6EXaBGs78prjAfgRZqH4qXrSv3oGamq6ero71psxK2t?filename=3180-Pug_green_grass-732x549-thumbnail-732x549.jpg",
+    "attributes": [
+        {
+            "color": "white",
+            "value": 0
+        }
+    ]
+}
